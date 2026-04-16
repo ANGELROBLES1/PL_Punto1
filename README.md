@@ -1,4 +1,4 @@
-# Lenguaje CRUD NoSQL - Punto 1
+# Lenguaje CRUD  - Punto 1
 ## Descripción
 
 En este punto se diseñó e implementó una gramática para un lenguaje orientado a operaciones CRUD sobre una base de datos No relacional.
